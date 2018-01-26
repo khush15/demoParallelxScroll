@@ -1,0 +1,8 @@
+{
+  "name": "whatsappProjecNew",
+  "app_id": "b6b6322b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
